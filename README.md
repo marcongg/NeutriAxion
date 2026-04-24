@@ -1,2 +1,4 @@
 # NeutriAxion | Sentiment Intelligence
-Real-time sentiment analytics dashboard. (In Progresss)
+Real-time sentiment analytics dashboard. 
+
+(In Progresss)
